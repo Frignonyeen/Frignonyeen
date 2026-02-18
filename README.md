@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Frignonyeen
-- 👀 I’m interested in video games and making AI play video games for my own twisted amusement. Also cute miniPCs.
-- 🌱 I’m currently learning Python, but I have my eyes on Julia after because it seems like the infinity gauntlet of langauges.
-- 💞️ I’m looking to collaborate on ... see below
-- 📫 How to reach me ... please don't I'm a socially anxious wallflower
+I’m interested in Godot/GDScript for video games and a trifecta of Dart/Flutter, Go, and Rust for multiplatform goodness. Also cute miniPCs.
+Currently I'm learning Dart and GDScrpt... and Blender...
 
 <!---
 Frignonyeen/Frignonyeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
